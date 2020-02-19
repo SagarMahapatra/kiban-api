@@ -7,5 +7,23 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "itemList": [
+    {
+      "itemCode": "SKU_01",
+      "itemDescription": "This the description for SKU_01"
+    },
+    {
+      "itemCode": "SKU_02",
+      "itemDescription": "This the description for SKU_02"
+    },
+    {
+      "itemCode": "SKU_03",
+      "itemDescription": "This the description for SKU_04"
+    },
+    {
+      "itemCode": "SKU_04",
+      "itemDescription": "This the description for SKU_04"
+    }
+  ]
 }
