@@ -27,24 +27,25 @@
     }
   ],
   "locationList": [
-    {
-      "locationId": "R01/02/03",
-      "locationDescription": "Row 01 - Column 02 - Level 03"
-    },
-    {
-      "locationId": "R01/03/03",
-      "locationDescription": "Row 01 - Column 02 - Level 03"
-    },
-    {
-      "locationId": "R01/04/03",
-      "locationDescription": "Row 01 - Column 03 - Level 03"
-    },
-    {
-      "locationId": "R01/05/03",
-      "locationDescription": "Row 01 - Column 04 - Level 03"
-    },
-    {
-      "locationId": "R01/06/03",
-      "locationDescription": "Row 01 - Column 05 - Level 03"
-    }
+      {
+        "locationId": "R01/02/03",
+        "locationDescription": "Row 01 - Column 02 - Level 03"
+      },
+      {
+        "locationId": "R01/03/03",
+        "locationDescription": "Row 01 - Column 02 - Level 03"
+      },
+      {
+        "locationId": "R01/04/03",
+        "locationDescription": "Row 01 - Column 03 - Level 03"
+      },
+      {
+        "locationId": "R01/05/03",
+        "locationDescription": "Row 01 - Column 04 - Level 03"
+      },
+      {
+        "locationId": "R01/06/03",
+        "locationDescription": "Row 01 - Column 05 - Level 03"
+      }
+    ]
 }
