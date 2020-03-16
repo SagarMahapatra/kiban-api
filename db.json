@@ -10,20 +10,20 @@
   },
   "itemList": [
     {
-      "itemCode": "SKU_01",
-      "itemDescription": "This the description for SKU_01"
+      "itemCode": "23587",
+      "itemDescription": "PVC Plastic Strip - Black"
     },
     {
-      "itemCode": "SKU_02",
-      "itemDescription": "This the description for SKU_02"
+      "itemCode": "21786",
+      "itemDescription": "PVC Plastic Strip - Yellow"
     },
     {
-      "itemCode": "SKU_03",
-      "itemDescription": "This the description for SKU_04"
+      "itemCode": "23098",
+      "itemDescription": "PVC Plastic Strip - Red"
     },
     {
-      "itemCode": "SKU_04",
-      "itemDescription": "This the description for SKU_04"
+      "itemCode": "20765",
+      "itemDescription": "PVC Plastic Strip - Green"
     }
   ],
   "locationList": [
